@@ -5,10 +5,6 @@ author_profile: true
 permalink: /cv/
 ---
 
-[📄 Download CV (PDF)](/assets/CV_Godet_2026.pdf)
-
----
-
 ## Current Position
 
 **Professeur des Universités – Praticien Hospitalier (PU-PH)**  
