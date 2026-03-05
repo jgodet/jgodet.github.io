@@ -1,3 +1,11 @@
+---
+layout: page
+title: "home"
+author_profile: true
+permalink: /home/
+---
+
+
 <img src="avatar.jpg" width="130" align="left" style="margin-right: 20px" alt="Julien Godet"/>
 
 **Julien Godet**  
