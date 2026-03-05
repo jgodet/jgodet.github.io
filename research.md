@@ -21,8 +21,7 @@ I focus on **statistical methods for observational health data**, with particula
 ### Current Projects
 
 - Statistician of the European project **PHenotyping of OCcupational ASthma (PHOCA)** — European Academy of Allergy and Clinical Immunology (EAACI)
-- Statistician on multiple **PHRC** (Programme Hospitalier de Recherche Clinique) — national and international
-- Methodological expertise and evaluation for **GIRCI** (Grand Est, Aura, GO, SOHO)
+- 
 
 ---
 
@@ -35,12 +34,3 @@ Before joining iCube, my research was conducted at the **Laboratoire de Bioimage
 - **Super-resolution optical microscopy** (PALM, STORM, SOFI) for the study of bacterial systems
 - **RNA chaperones** — structural and dynamic studies using single-molecule approaches
 - Development of **fluorescence imaging methods** for live-cell and bacterial imaging
-
-### International Collaborations
-
-| Year | Host | Institution |
-|------|------|-------------|
-| 2022 | Schnitzer lab | Université de Montréal, Canada |
-| 2016 | Jacobs-Wagner lab | Yale University, USA |
-| 2014 | Klenerman group | University of Cambridge, UK |
-| 2019– | Teaching & research | Université Internationale Abulcasis des Sciences de la Santé, Morocco |
