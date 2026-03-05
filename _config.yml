@@ -1,0 +1,22 @@
+title: ""
+description: "Professor of Biostatistics & Hospital Practitioner · University of Strasbourg"
+url: "https://jgodet.github.io"
+baseurl: ""
+
+author:
+  name: Julien Godet
+  email: julien.godet@unistra.fr
+
+theme: minima
+
+minima:
+  skin: classic
+  header_pages:
+    - research.md
+    - publications.md
+    - teaching.md
+    - cv.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
