@@ -25,12 +25,6 @@ I teach at the **Faculty of Pharmacy** and the **Faculty of Medicine**, Universi
 - **Co-director** — Master's program *Intelligence des données en santé*, University of Strasbourg
 - **Director** — Pharmacy Internship track (*filière internat*), Faculty of Pharmacy, Illkirch
 - **Deputy Dean** (*Vice-doyen troisième cycle*) — Faculty of Pharmacy, Illkirch (2023–)
-- **Expert** — National Internship Examination Committees (*CNCI*) (2019–)
-- **Jury member** — *PACES* and *L1SpS* (2010–)
-
-### Former
-
-- Member — *Conseil National des Universités* (CNU, section 80) (2015–2018)
 
 ---
 
@@ -55,5 +49,3 @@ The Carpentries provides foundational training in programming and data science f
 ## PhD Supervision
 
 I currently supervise **2 PhD students** and several Master's students at the University of Strasbourg, working on topics related to statistical methods for observational health data and causal inference.
-
-*Prime d'encadrement doctoral et de recherche (PEDR): 2014–2018, 2018–2022, 2022–2026*
