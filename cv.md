@@ -21,14 +21,14 @@ University of Strasbourg & University Hospitals of Strasbourg (HUS)
 
 | Year | Degree | Institution |
 |------|--------|-------------|
-| 2020 | Habilitation à Diriger des Recherches | University of Strasbourg |
-| 2012 | Ancien Assistant Hospitalier Universitaire | CHRU de Strasbourg |
+| 2020 | Habilitation (Senior Research Supervision Degree) | University of Strasbourg |
+| 2012 | Junior Hospital Practitioner (*Ancien Assistant Hospitalier Universitaire*) | Strasbourg University Hospital |
 | 2010 | PhD in Biophysics | University of Strasbourg |
-| 2009 | Pharm.D — Doctorat d'exercice en Pharmacie | University of Strasbourg |
-| 2009 | DES de Pharmacie Spécialisée | University of Strasbourg |
+| 2009 | Pharm.D (Doctor of Pharmacy) | University of Strasbourg |
+| 2009 | *DES de Pharmacie Spécialisée* | University of Strasbourg |
 | 2009 | Master II in Applied Biostatistics | Université Paris XI |
-| 2005 | DEA in Pharmaco-Chemistry | Université L. Pasteur, Strasbourg |
-| 2005–2009 | Interne en pharmacie | CHRU de Strasbourg |
+| 2005 | Master II in Pharmaco-Chemistry | Université L. Pasteur, Strasbourg |
+| 2005–2009 | Pharmacy Residency (*Internat en pharmacie*) | Strasbourg University Hospital |
 
 
 
