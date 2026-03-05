@@ -26,10 +26,3 @@ Elsevier Health Sciences, 2023.
 > For the complete and up-to-date list, please refer to  
 > [Google Scholar](https://scholar.google.com/citations?user=X3QQ2ygAAAAJ&hl=fr)
 
----
-
-## Awards
-
-- 🏆 **Prix de Thèse** — Académie Nationale de Pharmacie (2011)
-- 🏆 **Prix de Thèse** — Université de Strasbourg (2010)
-- 🏅 **Best Poster** — Forum Jeunes Chercheurs, SFBBM (2010)
