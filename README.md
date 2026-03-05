@@ -55,37 +55,4 @@ My work sits at the intersection of **biostatistics, causal inference, and real-
 
 ---
 
-## Selected Publications
-
-> 83 international publications · h-index: 34
-
-- **Godet J** et al. — *see full list on [Google Scholar](https://scholar.google.com/citations?user=X3QQ2ygAAAAJ&hl=fr)*
-
-📖 **Textbook**: *Statistiques-Santé publique : L'enseignement en fiches* (Objectif internat pharmacie), Elsevier Health Sciences, 2023.
-
----
-
-## Teaching
-
-- Biostatistics, Data Science, Clinical Research Methodology — Health Sciences curricula (Strasbourg)
-- **Co-director**, Master's program *Intelligence des données en santé* — University of Strasbourg
-- **Director**, Pharmacy Internship track — Faculty of Pharmacy, Illkirch
-- Certified [Carpentries Instructor](https://carpentries.org/community/instructors/)
-
----
-
-## Education
-
-| Year | Degree | Institution |
-|------|--------|-------------|
-| 2020 | Habilitation à Diriger des Recherches | University of Strasbourg |
-| 2012 | Ancien Assistant Hospitalier Universitaire | Hôpitaux Universitaires de Strasbourg |
-| 2010 | PhD in Biophysics | University of Strasbourg |
-| 2009 | Pharm.D (Doctorat d'exercice en Pharmacie) | University of Strasbourg |
-| 2009 | DES de Pharmacie Spécialisée | University of Strasbourg |
-| 2009 | Master II in Applied Biostatistics | Université Paris XI |
-| 2005 | DEA in Pharmaco-Chemistry | Université L. Pasteur, Strasbourg |
-
----
-
 📍 Strasbourg, France · [iCube](https://icube.unistra.fr) · [HUS](http://www.chru-strasbourg.fr/)
