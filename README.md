@@ -43,7 +43,7 @@ I strive to transform observational health data into clinical knowledge. My work
 
 | Period | Role | Institution |
 |--------|------|-------------|
-| 2022 – present | Full Professor (PU-PH) | University of Strasbourg & HUS |
+| 2023 – present | Full Professor (PU-PH) | University of Strasbourg & HUS |
 | 2023 – present | Deputy Dean | Faculty of Pharmacy, Illkirch |
 | 2012 – present | Biostatistician & Methodologist | GMRC – HUS |
 
