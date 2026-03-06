@@ -19,10 +19,10 @@ University of Strasbourg & University Hospitals of Strasbourg (HUS)
 
 ## Education
 
-| Year | Degree | Institution |
-|------|--------|-------------|
+| Year    | Degree | Institution |
+|---------|--------|-------------|
 | 2020 | Habilitation (Senior Research Supervision Degree) | University of Strasbourg |
-| 2012 | Junior Hospital Practitioner (*Ancien Assistant Hospitalier Universitaire*) | Strasbourg University Hospital |
+| 2012 | Junior Hospital Practitioner (*Titre d'Ancien Assistant Hospitalier Universitaire*) | Strasbourg University Hospital |
 | 2010 | PhD in Biophysics | University of Strasbourg |
 | 2009 | Pharm.D (Doctor of Pharmacy) | University of Strasbourg |
 | 2009 | *DES de Pharmacie Spécialisée* | University of Strasbourg |
@@ -36,8 +36,9 @@ University of Strasbourg & University Hospitals of Strasbourg (HUS)
 
 ## International Experience
 
-- 🇨🇦 **Visiting Professor** – Schnitzer lab, Université de Montréal, Québec, Canada (2022)
-- 🇺🇸 **Lab Associate** – Jacobs-Wagner Lab, Yale University (Summer 2016)
-- 🇬🇧 **Visiting Scholar** – Klenerman Group, University of Cambridge (2014)
+- 🇨🇦 **Invited Professor** – [Schnitzer lab](https://www.mireilleschnitzer.com/), Université de Montréal, Québec, Canada (2022)
+- 🇺🇸 **Lab Associate** – [Jacobs-Wagner Lab](https://jacobswagnerlab.stanford.edu/home), Yale University (Summer 2016) (now at Standford)
+- 🇬🇧 **Visiting Scholar** – [Klenerman Lab](https://www.klenermangroup.co.uk/), University of Cambridge (2014)
 - 🇲🇦 Annual teaching missions – Université Internationale Abulcasis des Sciences de la Santé, Morocco (2019–present)
+
 
