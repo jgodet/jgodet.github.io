@@ -3,9 +3,7 @@ description: "Professor of Biostatistics & Hospital Practitioner · University o
 url: "https://jgodet.github.io"
 baseurl: ""
 
-author:
-  name: Julien Godet
-  email: julien.godet@unistra.fr
+author: "Julien Godet"
 
 theme: minima
 
