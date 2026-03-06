@@ -25,7 +25,7 @@ University of Strasbourg
 
 ---
 
-I strive to transform observational health data into clinical knowledge. My work sits at the intersection of **biostatistics, causal inference, and real-world health data**. I hold a joint academic-clinical appointment (PU-PH) at the University of Strasbourg and the University Hospitals of Strasbourg (HUS), and I am a member of the **IMAGeS** — *Images, Modelling, Learning, Geometry and Statistics* team at [iCube laboratory](https://icube.unistra.fr) (UMR CNRS 7753).
+I strive to transform observational health data into clinical knowledge. My work sits at the intersection of **biostatistics, causal inference, machine learning and real-world health data**. I hold a joint academic-clinical appointment (PU-PH) at the University of Strasbourg and the University Hospitals of Strasbourg (HUS), and I am a member of the **IMAGeS** — *Images, Modelling, Learning, Geometry and Statistics* team at [iCube laboratory](https://icube.unistra.fr) (UMR CNRS 7753).
 
 ---
 
