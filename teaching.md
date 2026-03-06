@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## Current Teaching
 
-I teach at the **Faculty of Pharmacy** and the **Faculty of Medicine**, University of Strasbourg, and across health sciences curricula (pharmacy, medicine, paramedical).
+I teach at the **[Faculty of Pharmacy](https://pharmacie.unistra.fr/)** and across health sciences curricula (pharmacy, medicine, paramedical) at University of Strasbourg.
 
 ### Courses
 
@@ -22,7 +22,7 @@ I teach at the **Faculty of Pharmacy** and the **Faculty of Medicine**, Universi
 
 ### Current
 
-- **Co-director** — Master's program *Intelligence des données en santé*, University of Strasbourg
+- **Co-director** — Master's program *[Intelligence des données en santé](https://sens-sante-numerique.unistra.fr/formations/master-ingenierie-de-la-sante/odf-parcours-intelligence-en-donnees-de-sante-PR1631-17566/)*, University of Strasbourg
 - **Director** — Pharmacy Internship track (*filière internat*), Faculty of Pharmacy, Illkirch
 - **Deputy Dean** (*Vice-doyen troisième cycle*) — Faculty of Pharmacy, Illkirch (2023–)
 
@@ -30,7 +30,7 @@ I teach at the **Faculty of Pharmacy** and the **Faculty of Medicine**, Universi
 
 ## International Teaching
 
-- Annual teaching missions — **Université Internationale Abulcasis des Sciences de la Santé**, Rabat, Morocco (2019–present)
+- Annual teaching missions — **[Université Internationale Abulcasis des Sciences de la Santé](https://www.uiass.ma/)**, Rabat, Morocco (2019–present)
 
 ---
 
