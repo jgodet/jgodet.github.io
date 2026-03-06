@@ -24,15 +24,15 @@ University of Strasbourg
 
 ---
 
-My work sits at the intersection of **biostatistics, causal inference, and real-world health data**. I hold a joint academic-clinical appointment (PU-PH) at the University of Strasbourg and the University Hospitals of Strasbourg (HUS), and I am a member of the **IMAGeS** — *Images, Modelling, Learning, Geometry and Statistics* team at [iCube laboratory](https://icube.unistra.fr) (UMR CNRS 7753).
+I strive to transform observational health data into clinical knowledge. My work sits at the intersection of **biostatistics, causal inference, and real-world health data**. I hold a joint academic-clinical appointment (PU-PH) at the University of Strasbourg and the University Hospitals of Strasbourg (HUS), and I am a member of the **IMAGeS** — *Images, Modelling, Learning, Geometry and Statistics* team at [iCube laboratory](https://icube.unistra.fr) (UMR CNRS 7753).
 
 ---
 
 ## Research Interests
 
 - Causal inference in observational health data
-- Statistical methods for hospital data warehouses (EHR)
-- Clinical research methodology & biostatistics & deep learning
+- Statistical methods for analysing data from hospital data warehouses
+- Clinical research methodology, biostatistics & deep learning
 - *(Former) Super-resolution microscopy · RNA chaperones · Bacterial systems*
 
 ---
@@ -49,9 +49,9 @@ My work sits at the intersection of **biostatistics, causal inference, and real-
 
 ## International Experience
 
-- 🇨🇦 **Visiting Professor** – Schnitzer lab, Université de Montréal, Québec, Canada (2022)
-- 🇺🇸 **Lab Associate** – Jacobs-Wagner Lab, Yale University (Summer 2016)
-- 🇬🇧 **Visiting Scholar** – Klenerman Group, University of Cambridge (2014)
+- 🇨🇦 **Invited Professor** – [Schnitzer lab](https://www.mireilleschnitzer.com/), Université de Montréal, Québec, Canada (2022)
+- 🇺🇸 **Lab Associate** – [Jacobs-Wagner Lab](https://jacobswagnerlab.stanford.edu/home), Yale University (Summer 2016) (now at Standford)
+- 🇬🇧 **Visiting Scholar** – [Klenerman Lab](https://www.klenermangroup.co.uk/), University of Cambridge (2014)
 - 🇲🇦 Annual teaching missions – Université Internationale Abulcasis des Sciences de la Santé, Morocco (2019–present)
 
 ---
