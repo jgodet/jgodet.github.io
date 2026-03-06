@@ -1,7 +1,7 @@
 <img src="avatar.jpg" width="130" align="left" style="margin-right: 20px" alt="Julien Godet"/>
 
 **Julien Godet**  
-Professor in Biostatistics and Health Data Sciences </br>
+Professor in Biostatistics and Health Data Sciences <br>
 *Professeur des Universités – Praticien Hospitalier*  
 University of Strasbourg
 
