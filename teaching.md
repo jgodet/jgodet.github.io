@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## Current Teaching
 
-I teach at the **Faculty of Pharmacy** and the **Faculty of Medicine**, University of Strasbourg, across health sciences curricula (pharmacy, medicine, paramedical).
+I teach at the **Faculty of Pharmacy** and the **Faculty of Medicine**, University of Strasbourg, and across health sciences curricula (pharmacy, medicine, paramedical).
 
 ### Courses
 
@@ -41,6 +41,7 @@ The Carpentries provides foundational training in programming and data science f
 
 | Date | Workshop | Location |
 |------|----------|----------|
+| June 2026 | SC – Introduction to R and RStudio (*upcoming*) | Strasbourg |
 | Jan 2025 | DC – Introduction to R and RStudio for Genomics | Strasbourg |
 | Oct 2024 | DC – Genomics Curriculum | Strasbourg |
 
@@ -48,4 +49,4 @@ The Carpentries provides foundational training in programming and data science f
 
 ## PhD Supervision
 
-I currently supervise **2 PhD students** and several Master's students at the University of Strasbourg, working on topics related to statistical methods for observational health data and causal inference.
+I currently supervise **2 PhD students** and few Master's students, working on topics related to statistical methods for observational health data and causal inference.
