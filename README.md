@@ -11,13 +11,14 @@ University of Strasbourg
 
 ![Biostatistics](https://img.shields.io/badge/Biostatistics-0a0a0a?style=flat-square&logo=gnuplot&logoColor=white)
 ![Health Data](https://img.shields.io/badge/Health_Data-e85d2f?style=flat-square&logo=healthicons&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-ff6f61?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-ff6f61?style=flat-square&logo=pytorch&logoColor=white)
 [![R Enthusiast](https://img.shields.io/badge/R-Enthusiast-276DC3?style=flat-square&logo=r&logoColor=white)](https://cran.r-project.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/github.com/jgodet-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/jgodet)
 
 ### 🌐 Connect
 
-[![Email](https://img.shields.io/badge/julien.godet%40unistra.fr-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:julien.godet@unistra.fr)
+[![Email](https://img.shields.io/badge/email-0a0a0a?style=flat-square&logo=minutemailer&logoColor=white)](mailto:julien.godet@unistra.fr)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=X3QQ2ygAAAAJ&hl=fr)
 [![ORCID](https://img.shields.io/badge/ORCID-00A0E3?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8470-0092)
 [![iCube](https://img.shields.io/badge/Lab-iCube_UMR_7753-e85d2f?style=flat-square)](https://icube.unistra.fr)
